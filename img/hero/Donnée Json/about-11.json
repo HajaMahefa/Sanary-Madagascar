@@ -1,0 +1,18 @@
+{
+    "Colis": "rigide",
+    "bbox": [
+        {
+            "classe": "ovy",
+            "contenu": "",
+            "coordonnee": {
+                "centre": [
+                    1235,
+                    833
+                ],
+                "hauteur": 796,
+                "largeur": 728
+            },
+            "rotation": 0
+        }
+    ]
+}
